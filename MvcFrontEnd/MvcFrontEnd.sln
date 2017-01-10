@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSample.Entities", "MvcSa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSample.Data", "MvcSample.Data\MvcSample.Data.csproj", "{DD263D76-DC0E-4152-B5D4-7FD860DDA282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSpaFrontEnd", "MvcSpaFrontEnd\MvcSpaFrontEnd.csproj", "{DE16D605-BF68-452E-80A0-0D68A9E1217A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD263D76-DC0E-4152-B5D4-7FD860DDA282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD263D76-DC0E-4152-B5D4-7FD860DDA282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD263D76-DC0E-4152-B5D4-7FD860DDA282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE16D605-BF68-452E-80A0-0D68A9E1217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE16D605-BF68-452E-80A0-0D68A9E1217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE16D605-BF68-452E-80A0-0D68A9E1217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE16D605-BF68-452E-80A0-0D68A9E1217A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
